@@ -1,0 +1,31 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "This is a command line application.",
+  "bin": {
+    "notes": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpiao/notes.git"
+  },
+  "keywords": [],
+  "author": "Wenhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpiao/notes/issues"
+  },
+  "homepage": "https://github.com/wpiao/notes#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
+  "dependencies": {
+    "is-url": "^1.2.4",
+    "minimist": "^1.2.5"
+  }
+}
