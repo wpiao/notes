@@ -6,4 +6,7 @@ This is command line application called notes. This application will allow the u
 2. Run command 'npm run test' to test the application functionality.
 
 ### Lab1 - 4/13/2020
-This lab's code in in lab1 branch and it used constructor function to implement this application. It recognizes -a, -add, -d, -delete, -l, -list. This application is not fully developed in this lab. It will be complete in later lab.
+This lab's code in in lab1 branch and it used constructor function to implement this application. It recognizes -a, -add, -d, -delete, -l, -list. This application is not fully developed in this lab. It will be complete in later lab.</br>
+Pull request url: https://github.com/wpiao/notes/pull/1</br>
+
+
